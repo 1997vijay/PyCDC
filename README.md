@@ -44,4 +44,4 @@ Output:-
 
 
 ## Contributing
-our contributions to this project are encouraged and valued! You have the autonomy to make modifications directly and merge them without the need for a formal review process. You have the freedom to utilize the code in any manner you deem fit. 
+Your contributions to this project are encouraged and valued! You have the autonomy to make modifications directly and merge them without the need for a formal review process. You have the freedom to utilize the code in any manner you deem fit. 
