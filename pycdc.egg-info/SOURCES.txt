@@ -1,0 +1,13 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pycdc/__init__.py
+pycdc/exception.py
+pycdc/pycdc.py
+pycdc/version.py
+pycdc.egg-info/PKG-INFO
+pycdc.egg-info/SOURCES.txt
+pycdc.egg-info/dependency_links.txt
+pycdc.egg-info/top_level.txt
