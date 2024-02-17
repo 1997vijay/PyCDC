@@ -1,3 +1,5 @@
+# Package has been deleted. If you want to use then you can download the code and use it.
+
 This package enables the generation of a DataFrame with Change Data Capture (CDC) flags ('I' for Insert, 'U' for Update, and 'D' for Delete) by comparing historical and source data files
 
 ## Installation
